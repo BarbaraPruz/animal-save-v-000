@@ -28,12 +28,4 @@ html {
             transform: rotate(-90deg);
   }
 }
-/*@media only screen and (max-width: 610px) {
-  #dolphin img {
-    position: fixed;
-    top: 400px;
-    right: 0;
-    -webkit-transform: rotate(0deg);
-            transform: rotate(0deg);
-  }
-}*/
+
