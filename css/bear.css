@@ -11,7 +11,7 @@ html {
 /* Write your solution here */
  @media only screen and (min-width: 1196px) {
     #bear img {
-      position: fixed;
+/*      position: fixed;*/
       left: 800px;
   }
 }
