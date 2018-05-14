@@ -11,15 +11,8 @@ html {
 /* Write your solution here */
 @media only screen and (max-width: 1165px) and (min-width: 395px){
     img {
-      position: fixed;
+      /*position: fixed;*/
       top: 0;
       right: 0;
   }
 }
-/*@media only screen and (max-width: 395px) {
-    img {
-      position: absolute;
-      bottom: 550px;
-      right: 75px;
-  }
-}*/
