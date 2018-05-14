@@ -19,7 +19,7 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (max-width: 1090px) {
+@media only screen and (max-width: 1090px) and (min-width: 610px) {
   #dolphin img {
     position: fixed;
     top: 125px;
@@ -28,7 +28,7 @@ html {
             transform: rotate(-90deg);
   }
 }
-@media only screen and (max-width: 610px) {
+/*@media only screen and (max-width: 610px) {
   #dolphin img {
     position: fixed;
     top: 400px;
@@ -36,4 +36,4 @@ html {
     -webkit-transform: rotate(0deg);
             transform: rotate(0deg);
   }
-}
+}*/
